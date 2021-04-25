@@ -1,0 +1,18 @@
+body {
+    background-color: #bbe1fa;
+}
+hr {
+    border-color: grey;
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 5px;
+}
+h1 {
+    color: #66bfbf;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 5rem;
+}
+h3 {
+    color: #66bfbf;
+    text-transform: uppercase;
+}
